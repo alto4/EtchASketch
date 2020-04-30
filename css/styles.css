@@ -15,6 +15,18 @@ body {
     margin: 3rem auto;
 }
 
+.btn-reset,
+.btn-toggle-color {
+    padding: .5rem 1rem;
+    outline: none;
+    border: 1px solid black;
+    border-radius: .3em;
+    background: blue;
+    color: #fff;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
 .container {
     display: grid;
     border: 5px solid #fff;
